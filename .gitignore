@@ -17,6 +17,12 @@
 .env.production.local
 .eslintcache
 package-lock.json
+firebase-debug.log
+.firebaserc
+firebase.json
+
+.idea
+.firebase
 
 npm-debug.log*
 yarn-debug.log*
